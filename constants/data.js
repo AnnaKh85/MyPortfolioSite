@@ -8,44 +8,19 @@ const userData = {
   address: "Russia, Moscow",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
+      title: "Просто так .. о трейдерстве )",
+      link: "https://annastradingjourney.netlify.app/",
       imgUrl: "/tmk.jpg",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
+      title: "Просто сайт с чего начинала изучать web",
+      link: "https://mytrading.netlify.app/",
       imgUrl: "/placeholdertech.png",
     },
     {
       title: "Portfolio",
-      link: "https://manuarora.in",
+      link: "Site address",
       imgUrl: "/portfolio.png",
-    },
-    {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
-    },
-    {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
     },
   ],
   about: {
