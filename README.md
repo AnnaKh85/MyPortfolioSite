@@ -18,7 +18,13 @@ I've kept the pages as simple as possible. Only the required sections are includ
 
 ![Hompage](https://github.com/AnnaKh85/MyPortfolioSite/blob/master/demo-images/projects.png)
 
+## Experience
+
+![Hompage](https://github.com/AnnaKh85/MyPortfolioSite/blob/master/demo-images/experience.png)
+
 ## blog
+
+Will be later
 
 ![Hompage](https:blogpageimage)
 
