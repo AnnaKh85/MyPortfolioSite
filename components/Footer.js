@@ -19,7 +19,7 @@ export default function Footer() {
                   className="hover:bg-red-500 rounded-md px-2 py-1  hover:text-gray-50"
                   href="https://github.com/AnnaKh85"
                 >
-                  someone else
+                  me and myself :))
                 </a>
               </div>
             </div>
